@@ -2,7 +2,7 @@
 
 A fun and interactive **GUI-based Snake Game** built with Python, featuring a sleek color scheme and multiple levels of increasing difficulty. This game offers a visually appealing interface and smooth gameplay to keep players engaged!
 
-![Snake Game Screenshot](path/to/your/screenshot.png)
+![Snake Game Screenshot](https://github.com/FaizanArif15/Tic-Tac-Toe/blob/main/tictactoe.PNG)
 
 ## 🎮 Features
 
